@@ -8,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sougata-9&label=Profile%20views&color=0e75b6&style=flat" alt="sougata-9" /> </p>
 
 
-- 🔭 Currently working on **Employee Management System & Job Portal**
+🔭 Currently working on **Employee Management System & Job Portal**
 
-- 🌱 I’m currently learning **Angular, TypeScript, Tailwind CSS**
+🌱 I’m currently learning **Angular, TypeScript, Tailwind CSS**
 
-- 📫 How to reach me **sougatamand@gmail.com**
+📫 How to reach me **sougatamand@gmail.com**
 
-- ⚡ Fun fact: **I can spend hours fixing a bug, but only 5 minutes creating it...**
+⚡ Fun fact: **I can spend hours fixing a bug, but only 5 minutes creating it...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
