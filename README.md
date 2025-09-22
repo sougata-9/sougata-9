@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sougata Mandal</h1>
 <!-- <h3 align="center">A passionate frontend developer...</h3> -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer!!;Interested+in+UI/UX+design+!;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer!!;Interested+in+Backend+Development+!;Reach+me+here+for+collaboration+and+learning+together...;&center=true&width=650&height=50"></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 
