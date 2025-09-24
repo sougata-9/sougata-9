@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sougata Mandal</h1>
+<h1 align="center">Hi👋, I'm Sougata Mandal</h1>
 <!-- <h3 align="center">A passionate frontend developer...</h3> -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer!!;Interested+in+Backend+Development+!;Reach+me+here+for+collaboration+and+learning+together...;&center=true&width=650&height=50"></a>
